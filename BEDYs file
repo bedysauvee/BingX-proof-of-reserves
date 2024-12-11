@@ -7,4 +7,4 @@ Network: ethereum
 To
 Address:0x593484fCF06B7d9f788e99887b5FD79fb2F37b46
  Mew ethereum:
- url:https://github.com/mewwallet/mew-wallet-ios-tweetnacl.git
+ url:https://github.com/mewwallet/mew-wallet-ios-tweetnacl.git.patch
